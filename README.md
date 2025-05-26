@@ -4,12 +4,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Política de Privacidad – M45IV0</title>
-  <style>
-    body { font-family: sans-serif; max-width: 800px; margin: 40px auto; line-height: 1.6; padding: 0 20px; color: #0A0908; }
-    h1, h2 { color: #000; }
-    hr { margin: 40px 0; }
-  </style>
 </head>
 <body>
   <h1>Política de Privacidad – M45IV0</h1>
