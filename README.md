@@ -7,8 +7,7 @@
 </head>
 <body>
   <h1>Política de Privacidad – M45IV0</h1>
-  <p><strong>Fecha de entrada en vigencia:</strong> [Fecha]</p>
-
+  
   <p><strong>M45IV0 (MASIVO)</strong> es una declaración artística en forma de aplicación. Su única función es mostrar una pantalla negra. No solicita permisos. No recopila datos. No se conecta a internet. No tiene funcionalidades ocultas.</p>
 
   <h2>Información que recopilamos</h2>
@@ -30,12 +29,11 @@
   <p>Dado que la naturaleza de M45IV0 es inmutable, no anticipamos cambios. Si en el futuro se modifica esta política, se publicará aquí o en la página de Play Store.</p>
 
   <h2>Contacto</h2>
-  <p>Si tienes preguntas (aunque si las tienes, probablemente M45IV0 no sea para ti), puedes escribirnos a: <strong>youremail@example.com</strong></p>
+  <p>Si tienes preguntas (aunque si las tienes, probablemente M45IV0 no sea para ti), puedes escribirnos a: <strong>fran@corderonegro.be</strong></p>
 
   <hr />
 
   <h1>Privacy Policy – M45IV0</h1>
-  <p><strong>Effective date:</strong> [Insert Date]</p>
 
   <p><strong>M45IV0 (MASIVO)</strong> is an artistic statement in the form of an app. Its sole function is to display a black screen. It requests no permissions. It collects no data. It does not connect to the internet. It has no hidden features.</p>
 
@@ -58,6 +56,6 @@
   <p>The nature of M45IV0 is unchanging. However, if this policy is ever updated, it will be reflected in this section or on the app’s Play Store page.</p>
 
   <h2>Contact</h2>
-  <p>If you have questions (although if you do, M45IV0 might not be for you), you can reach us at: <strong>youremail@example.com</strong></p>
+  <p>If you have questions (although if you do, M45IV0 might not be for you), you can reach us at: <strong>fran@corderonegro.be</strong></p>
 </body>
 </html>
